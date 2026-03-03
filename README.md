@@ -9,8 +9,7 @@ It is a multi-page blog platform built using React, featuring dynamic routing, r
 The application simulates a content platform where users can browse posts, view detailed pages, and filter content efficiently.
 
 🔗 **Live Demo:**  
-https://abdelrahmangalal200101-cpu.github.io/React-Lens-Blog/
-
+http://localhost:5173/React-Assiment-1/
 ---
 
 ## 🛠️ Technologies Used
